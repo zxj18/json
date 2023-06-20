@@ -99,6 +99,26 @@
         "showAll" : false,
         "search" : true
     },
+
+      {
+        "name" : "杜比",
+        "server" : "https://dubi.tk",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+
+
+     {
+        "name" : "9T",
+        "server" : "https://drive.9t.ee",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },  
+       
+       
+       
        {
         "name" : "💦讯维云盘",
         "server" : "https://pan.xwbeta.com",
