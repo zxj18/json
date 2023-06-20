@@ -14,6 +14,63 @@
         "search" : true
     },
       
+  {
+        "name" : "雨呢",
+        "server" : "https://pan.clun.top/",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+        {
+        "name" : " Arley",
+        "server" : "https://pan.arley.cn/",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+        {
+        "name" : "微资源",
+        "server" : "https://apps.weixinqqq.com/",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+        {
+        "name" : "小站",
+        "server" : "https://alist.ygxz.xyz/",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+        {
+        "name" : "日负斗金",
+        "server" : "https://asca0121.toc.icu/",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+        {
+        "name" : "AList网盘",
+        "server" : "https://dl.6r.pw:6080/",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+        {
+        "name" : "小小",
+        "server" : "https://pan.hxft.xyz/",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+        {
+        "name" : "azad",
+        "server" : "https://alist.azad.asia/",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+        
         {
         "name" : "🐉神族九帝",
         "server" : "https://alist.shenzjd.com",
