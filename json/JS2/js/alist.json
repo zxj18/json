@@ -49,14 +49,7 @@
         "showAll" : false,
         "search" : true
     },
-        {
-        "name" : "AList网盘",
-        "server" : "https://dl.6r.pw:6080/",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
-    },
-        {
+      {
         "name" : "小小",
         "server" : "https://pan.hxft.xyz/",
         "startPage" : "/",
@@ -107,7 +100,14 @@
         "showAll" : false,
         "search" : true
     },
-
+        {
+        "name" : "AList网盘",
+        "server" : "https://dl.6r.pw:6080/",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+       
 
      {
         "name" : "9T",
