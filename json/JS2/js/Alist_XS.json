@@ -1,15 +1,9 @@
 {
     "drives": [
 
-          {
-        "name" : "电影合集",
-        "url" : "https://al.chirmyram.com/mov/%E7%94%B5%E5%BD%B1/%E5%90%88%E9%9B%86",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
-    },
+
         {
-        "name" : "🙋丫仙女",
+        "name" : "小雅",
         "server" : "http://alist.xiaoya.pro",
         "startPage" : "/",
         "showAll" : true,
