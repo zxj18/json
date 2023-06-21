@@ -1,0 +1,131 @@
+{
+    "drives": [
+        {
+        "name" : "🙋丫仙女",
+        "server" : "http://alist.xiaoya.pro",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+         {
+        "name" : "🌊七米蓝",
+        "server" : "https://al.chirmyram.com",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+      
+  {
+        "name" : "雨呢",
+        "server" : "https://pan.clun.top/",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+        {
+        "name" : " Arley",
+        "server" : "https://pan.arley.cn/",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+        {
+        "name" : "微资源",
+        "server" : "https://apps.weixinqqq.com/",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+        {
+        "name" : "小站",
+        "server" : "https://alist.ygxz.xyz/",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+        {
+        "name" : "日负斗金",
+        "server" : "https://asca0121.toc.icu/",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+      {
+        "name" : "小小",
+        "server" : "https://pan.hxft.xyz/",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+        {
+        "name" : "azad",
+        "server" : "https://alist.azad.asia/",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+        
+        {
+        "name" : "🐉神族九帝",
+        "server" : "https://alist.shenzjd.com",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+        {
+        "name" : "☃️姬路白雪",
+        "server" : "https://pan.jlbx.xyz",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+ {
+        "name" : "✨星梦",
+        "server" : "https://pan.bashroot.top",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+        {
+        "name" : "💫触光",
+        "server" : "https://pan.ichuguang.com",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+
+      {
+        "name" : "杜比",
+        "server" : "https://dubi.tk",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+        {
+        "name" : "AList网盘",
+        "server" : "https://dl.6r.pw:6080/",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+       
+
+     {
+        "name" : "9T",
+        "server" : "https://drive.9t.ee",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },  
+       
+       
+       
+       {
+        "name" : "💦讯维云盘",
+        "server" : "https://pan.xwbeta.com",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    }
+    ]
+}
