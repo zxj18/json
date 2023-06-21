@@ -26,49 +26,49 @@
       
   {
         "name" : "雨呢",
-        "server" : "https://pan.clun.top/",
+        "server" : "https://pan.clun.top",
         "startPage" : "/",
         "showAll" : true,
         "search" : true
     },
         {
         "name" : " Arley",
-        "server" : "https://pan.arley.cn/",
+        "server" : "https://pan.arley.cn",
         "startPage" : "/",
         "showAll" : true,
         "search" : true
     },
         {
         "name" : "微资源",
-        "server" : "https://apps.weixinqqq.com/",
+        "server" : "https://apps.weixinqqq.com",
         "startPage" : "/",
         "showAll" : true,
         "search" : true
     },
         {
         "name" : "小站",
-        "server" : "https://alist.ygxz.xyz/",
+        "server" : "https://alist.ygxz.xyz",
         "startPage" : "/",
         "showAll" : true,
         "search" : true
     },
         {
         "name" : "日负斗金",
-        "server" : "https://asca0121.toc.icu/",
+        "server" : "https://asca0121.toc.icu",
         "startPage" : "/",
         "showAll" : true,
         "search" : true
     },
       {
         "name" : "小小",
-        "server" : "https://pan.hxft.xyz/",
+        "server" : "https://pan.hxft.xyz",
         "startPage" : "/",
         "showAll" : true,
         "search" : true
     },
         {
         "name" : "azad",
-        "server" : "https://alist.azad.asia/",
+        "server" : "https://alist.azad.asia",
         "startPage" : "/",
         "showAll" : true,
         "search" : true
@@ -112,7 +112,7 @@
     },
         {
         "name" : "AList网盘",
-        "server" : "https://dl.6r.pw:6080/",
+        "server" : "https://dl.6r.pw:6080",
         "startPage" : "/",
         "showAll" : true,
         "search" : true
