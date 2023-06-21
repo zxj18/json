@@ -1,5 +1,13 @@
 {
     "drives": [
+
+          {
+        "name" : "电影合集",
+        "server" : "https://al.chirmyram.com/mov/%E7%94%B5%E5%BD%B1/%E5%90%88%E9%9B%86",
+        "startPage" : "/",
+        "showAll" : true,
+        "search" : true
+    },
         {
         "name" : "🙋丫仙女",
         "server" : "http://alist.xiaoya.pro",
@@ -7,6 +15,7 @@
         "showAll" : true,
         "search" : true
     },
+
          {
         "name" : "🌊七米蓝",
         "server" : "https://al.chirmyram.com",
