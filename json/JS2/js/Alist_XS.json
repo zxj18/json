@@ -3,7 +3,8 @@
 
           {
         "name" : "电影合集",
-        "server" : "https://al.chirmyram.com/mov/%E7%94%B5%E5%BD%B1/%E5%90%88%E9%9B%86",
+        "server" : "https://al.chirmyram.com/",
+        "url" : "https://al.chirmyram.com/mov/%E7%94%B5%E5%BD%B1/%E5%90%88%E9%9B%86",
         "startPage" : "/",
         "showAll" : true,
         "search" : true
