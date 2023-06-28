@@ -1,6 +1,41 @@
 {
     "drives": [
 
+    {
+        "name": "🙋丫仙女",
+        "server": "http://alist.xiaoya.pro/",
+        "startPage": "/",
+        "showAll": false,
+        "search": true,
+        "params": {
+            "/abc": {
+                "password": "123"
+            },
+            "/abc/abc": {
+                "password": "123"
+            }
+        }
+    },
+
+    {
+        "name": "🌨秋雨分享",
+        "server": "https://share.laowang.me",
+        "password": "s8;K^h[j<b",
+        "params": {
+            "/Onedrive-2": {
+                "password": "s8;K^h[j<b"
+            },
+            "/Onedrive-3": {
+                "password": "s8;K^h[j<b"
+            }
+        }
+    },
+    {
+        "name": "🌨秋雨分享2",
+        "server": "https://share.laowang.me",
+        "password": "s8;K^h[j<b"
+    },
+
 
         {
         "name" : "小雅",
