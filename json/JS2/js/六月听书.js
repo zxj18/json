@@ -23,5 +23,6 @@ var rule = {
         "tabs":".operate-bar&&.total-num",
         "lists":".book-list:eq(#id)&&.list-item"
     },
-    搜索:'js:let d=[];let MY_HOME="http://m.6yueting.com";let html=request(input);html=JSON.parse(html);let list=html.data.content;list.forEach(function(it){d.push({title:it.name.replace(/<.*?>/g,""),img:"http://img.6yueting.com:20001/"+it.coverUrlLocal,url:MY_HOME+"/list/"+it.code,desc:it.cdate,content:it.descXx.replace(/&nbsp;/g,"")})});setResult(d);',
+    搜索:'*',
+ 
 }
