@@ -18,9 +18,6 @@ var rule = {
     推荐:"*",
     一级:'.mobile-list&&.mobile-list-item;.songname&&Text;.lazyload&&data-src;.authorname&&Text;a&&href',
     二级:'*',
-    // searchUrl:'/search/?key=**&page=fypage',
-    // 搜索:'*',
-    searchUrl:'/ajax/?act=search&key=**&lang=',
-    detailUrl:'/play/fyid.html',
-     搜索:'.v-list-body&&.v_item;*;*;*;*',
+    searchUrl:'/search/?key=**&page=fypage',
+    搜索:'*',
 }
