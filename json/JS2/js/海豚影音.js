@@ -6,7 +6,6 @@ var rule = {
     searchable:2,
     quickSearch:0,
     filterable:1,
-    "简介":"🐬小海豚提醒您请勿相信影片中的广告，以免上当受骗。+剧情：&&<a",
     multi:1,
     // 分类链接fypage参数支持1个()表达式
     url:'/api.php/provide/searchFilter?type_id=fyclass&pagesize=24&pagenum=fypage',
@@ -17,7 +16,7 @@ var rule = {
 		"User-Agent":"okhttp/3.12.0"
 	},
     timeout:5000,
-    class_name:'全部&电影&电视剧&综艺&动漫&综合频道',
+    class_name:'全部&电影&电视剧&综艺&动漫&综合频道&🐬小海豚提醒您请勿相信影片中的广告，以免上当受骗!',
     class_url:'0&1&2&3&4&5',
     limit:20,
     play_parse:true,
