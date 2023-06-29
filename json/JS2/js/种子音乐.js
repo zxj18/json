@@ -22,5 +22,5 @@ var rule = {
     // 搜索:'*',
     searchUrl:'/ajax/?act=search&key=**&lang=',
     detailUrl:'/play/fyid.html',
-    搜索:'json:data;mname;pic;sname;id',
+     搜索:'.v-list-body&&.v_item;*;*;*;*',
 }
