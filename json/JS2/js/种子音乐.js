@@ -14,7 +14,7 @@ var rule = {
     // lazy:"js:input=input.replace(/play\\/(\\w+)\\.htm/,'ajax/?act=songinfo&id=$1&lang=');log(input);let mp3 = JSON.parse(request(input)).data.mp3;input={jx:0,url:mp3,parse:1,header:JSON.stringify({Referer:'https://www.zz123.com/'})}",
     lazy:"js:input=input.replace(/play\\/(\\w+)\\.htm/,'ajax/?act=songinfo&id=$1&lang=').replace('www.','');log(input);let mp3=JSON.parse(request(input)).data.mp3;input={jx:0,url:'https://zz123.com/'+mp3,parse:1,header:JSON.stringify({Referer:'https://www.zz123.com/'})}",
     limit:6,
-    图片来源:'@Referer=https://www.zz123.com/',
+    图片来源:'@Referer=https://mp3.haoge500.com/',
     推荐:"*",
     一级:'.mobile-list&&.mobile-list-item;.songname&&Text;.lazyload&&data-src;.authorname&&Text;a&&href',
     二级:'*',
