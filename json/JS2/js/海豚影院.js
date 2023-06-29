@@ -1,5 +1,5 @@
 var rule = {
-    title:'酷云77',
+    title:'海豚影院',
     host:'http://api.tyun77.cn',
     homeUrl:'/api.php/provide/homeBlock?type_id=0',
     searchUrl:'/api.php/provide/searchVideo?searchName=**',
