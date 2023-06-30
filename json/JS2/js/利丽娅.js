@@ -2,7 +2,7 @@
 muban.mxpro.二级.desc = '.module-info-item:eq(3)&&Text;;;.module-info-item-content:eq(1)&&Text;.module-info-item-content:eq(0)&&Text';
 muban.mxpro.二级.tabs = '#y-playList .tab-item';
 var rule = {
-    title:'利丽娅电影',
+    title:'利丽娅',
     模板:'mxpro',
     // host:'https://www.llyady.cc',
     host:'https://www.llyady.com',
