@@ -1,5 +1,5 @@
 var rule = {
-    title:'哔哩影视',
+    title:'哔哩',
     host:'https://api.bilibili.com',
     url:'/fyclass-fypage&vmid=$vmid',
     detailUrl:'/pgc/view/web/season?season_id=fyid',
