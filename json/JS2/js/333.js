@@ -2,7 +2,7 @@
 muban.首图.二级.title = 'h1&&Text;.data--span:eq(3)&&Text';
 muban.首图.二级.desc = '.otherbox&&Text;;;.data--span:eq(2)&&Text;.data--span:eq(0)&&Text';
 var rule={
-    title:'333影视',
+    title:'333',
     模板:'首图',
     host:'https://www.ylwt33.com',
     // url:'/vodshow/fyclass--------fypage---.html',
