@@ -1,6 +1,6 @@
 muban.mxone5.二级.desc = '.video-info-items:eq(3)&&Text;;;.video-info-actor:eq(1)&&Text;.video-info-actor:eq(0)&&Text';
 var rule={
-    title:'吼吼[飞]',
+    title:'吼吼',
     模板:'mxone5',
     // host:'https://www.hoho.tv',
     host:'https://hoho.tv',
