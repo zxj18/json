@@ -1,5 +1,5 @@
 var rule = {
-    title:'动漫岛',
+    title:'动漫岛1',
     // host:'http://www.dmd85.com',
     host:'http://www.88dmw.com',
     // url:'/vod-list-id-fyclass-pg-fypage-order--by-{by}-class-{class}-year-{year}-letter--area--lang-.html',
