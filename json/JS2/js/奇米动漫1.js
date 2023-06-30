@@ -1,6 +1,6 @@
 
 var rule={
-	title:'奇米动漫',
+	title:'奇米动漫1',
 	host:'http://www.qimiqimi.net',
 	url:'/show/fyclassfyfilter.html',
 	filterable:1,//是否启用分类筛选,
