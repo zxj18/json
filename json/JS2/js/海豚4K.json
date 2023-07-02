@@ -11,10 +11,7 @@
         "蓝光原盘电影": "topic/bluray-movie/movie/page",
         "蓝光原盘纪录片": "topic/bluray-movie/documentry/page",
         "4K影片": "topic/4k/page",
-        "3D影片": "topic/3dmovie/page",
-        "演唱会": "topic/bluray-movie/song/page",
-        "顶级预告": "topic/trailers/page"
-
+        "3D影片": "topic/3dmovie/page"
     },
     "homeVodNode": "//div[contains(@class,'mainleft')]/ul/li/div[contains(@class,'thumbnail')]",
     "homeVodName": "/a/@title",
