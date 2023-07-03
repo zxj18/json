@@ -19,17 +19,17 @@
 
     {
         "name": "stv",
-        "url": "https://raw.fastgit.org/zxj18/yun/master/mytv/stv.txt&&&https://api.yimian.xyz/img?type=wallpaper"
+        "url": "https://raw.fastgit.org/zxj18/yun/master/mytv/tv9.txt&&&https://api.yimian.xyz/img?type=wallpaper"
     },
 
     {
         "name": "tv8",
-        "url": "https://raw.fastgit.org/zxj18/yun/master/mytv/tv8.txt&&&https://api.uomg.com/api/rand.music"
+        "url": "https://raw.fastgit.org/zxj18/yun/master/mytv/tv8.txt&&&https://v1.hitokoto.cn/?c=f&encode=text"
     },
 
     {
         "name": "zb3",
-        "url": "https://raw.fastgit.org/zxj18/yun/master/mytv/zb3.txt&&&https://zxj18.github.io/sjtp/"
+        "url": "https://raw.fastgit.org/zxj18/yun/master/mytv/zb3.txt&&&https://zxj18.github.io/sjtp"
     }
 
 
