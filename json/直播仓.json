@@ -18,18 +18,18 @@
     },
 
     {
-        "name": "肥猫!!",
-        "url": "https://api.btstu.cn/yan/api.php&&&https://api.yimian.xyz/img?type=wallpaper"
+        "name": "stv",
+        "url": "https://raw.fastgit.org/zxj18/yun/master/mytv/stv.txt&&&https://api.yimian.xyz/img?type=wallpaper"
     },
 
     {
-        "name": "肥猫!!",
-        "url": "https://api.uomg.com/api/rand.music&&&https://api.uomg.com/api/rand.music"
+        "name": "tv8",
+        "url": "https://raw.fastgit.org/zxj18/yun/master/mytv/tv8.txt&&&https://api.uomg.com/api/rand.music"
     },
 
     {
-        "name": "肥猫!!",
-        "url": "http://我不是.肥猫.love:63/TV/tvzb.txt&&&https://zxj18.github.io/sjtp/"
+        "name": "zb3",
+        "url": "https://raw.fastgit.org/zxj18/yun/master/mytv/zb3.txt&&&https://zxj18.github.io/sjtp/"
     }
 
 
