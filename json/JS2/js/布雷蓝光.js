@@ -7,8 +7,7 @@ var rule={
     host:'https://www.bulei.cc',     
     // url:'/index.php/vod/show/by/time/id/fyclass/page/fypage.html',
     url:'/index.php/vod/type/id/fyclassfyfilter.html',
-    hostJs:'let html=request(HOST,{headers:{"User-Agent":PC_UA}});let obj=JSON.parse(html);HOST=obj.sites[0].ext;',
-	homeUrl:'/api.php/app/index_video',
+	homeUrl:'/api.php/app/index.php',
     filterable:1,//是否启用分类筛选,
     filter_url:'{{fl.area}}{{fl.by}}{{fl.class}}{{fl.lang}}{{fl.letter}}/page/fypage{{fl.year}}',
     filter: {
