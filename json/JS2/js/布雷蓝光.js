@@ -1,4 +1,4 @@
-muban.mxpro.二级.tabs = 'module-play-list-content  module-play-list-larger';
+muban.mxpro.二级.tabs = '#y-playList .module-info-tag';
 muban.mxpro.二级.desc = '.module-info-item-content:eq(3)&&Text;;;.module-info-item-content:eq(2)&&Text;.module-info-item-content:eq(0)&&Text';
 
 var rule={     
