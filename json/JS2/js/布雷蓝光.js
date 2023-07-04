@@ -1,3 +1,6 @@
+muban.mxpro.二级.tabs = '#y-playList .module-tab-item';
+muban.mxpro.二级.desc = '.module-info-item-content:eq(3)&&Text;;;.module-info-item-content:eq(2)&&Text;.module-info-item-content:eq(0)&&Text';
+
 var rule={     
     title:'布雷蓝光',
     模板:'mxpro',     
