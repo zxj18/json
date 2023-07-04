@@ -1,4 +1,4 @@
-muban.mxpro.二级.tabs = '#y-play-List .module-tab-item';
+muban.mxpro.二级.tabs = '#y-module-list sort-list tab-list play-tab-list.module-tab-item';
 muban.mxpro.二级.desc = '.module-info-item-content:eq(3)&&Text;;;.module-info-item-content:eq(2)&&Text;.module-info-item-content:eq(0)&&Text';
 
 var rule={     
