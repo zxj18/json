@@ -6,7 +6,7 @@ var rule={
     模板:'mxpro',     
     host:'https://www.bulei.cc',     
     // url:'/index.php/vod/show/by/time/id/fyclass/page/fypage.html',
-    url:'/index.php/vod/show/id/fyclassfyfilter.html',
+    url:'/index.php/vod/type/id/fyclassfyfilter.html',
     filterable:1,//是否启用分类筛选,
     filter_url:'{{fl.area}}{{fl.by}}{{fl.class}}{{fl.lang}}{{fl.letter}}/page/fypage{{fl.year}}',
     filter: {
