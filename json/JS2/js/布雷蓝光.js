@@ -23,7 +23,7 @@ var rule={
 	headers:{
 		'User-Agent':'PC_UA',
 	},
-    detailUrl：'/voddetail/fyid/',
+ 
     searchUrl:'/index.php/vod/search/page/fypage/wd/**.html',
 
     class_parse: '.navbar-items li:gt(1):lt(10);a&&Text;a&&href;/(\\d+).html',
