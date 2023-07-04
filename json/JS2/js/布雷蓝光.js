@@ -3,7 +3,7 @@ muban.mxpro.二级.desc = '.module-info-item-content:eq(3)&&Text;;;.module-info-
 var rule={     
     title:'布雷蓝光',
     模板:'mxpro',     
-    host:'https://api.bulei.cc',     
+    host:'https://fabu.bulei.cc',     
     // url:'/index.php/vod/show/by/time/id/fyclass/page/fypage.html',
     url:'/index.php/vod/type/id/fyclassfyfilter.html',
     filterable:1,//是否启用分类筛选,
