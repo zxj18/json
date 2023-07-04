@@ -30,6 +30,5 @@ var rule={
 	play_parse:true,
 	lazy:'js:if(/m3u8|mp4|mkv/.test(input)){input={jx:1,url:input.replace(/+/g, "%20"),parse:1,header:JSON.stringify({"user-agent":"Lavf/58.12.100"})}}else{let purl=request("http://bingfa.behds.cn/indexappzhuanyong.php?url="+input);input={jx:0,url:JSON.parse(purl).url,parse:1}}',
 	limit:6,
-	推荐:'json:list[0].vlist;*;*;*;*',
-	搜索:'*',
+
 }
