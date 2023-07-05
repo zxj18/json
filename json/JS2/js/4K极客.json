@@ -56,7 +56,7 @@
     "手动嗅探视频链接过滤词": ".html#=http",
 
     "分类起始页码": "1",
-    "分类链接": "https://www.jiketv.com/index.php/show/{cateId}/class/{class}/area/{地区}/lang/{语言}/year/{年份}/letter/{字母}/by/{排序}.html",    
+    "分类链接": "https://www.jiketv.com/index.php/show/{cateId}/class/{class}/area/{area}/lang/{area}/year/{area}/letter/{letter}/by/{by}.html",    
     "分类名称": "电影&电视剧&综艺&动漫&",
     "分类名称替换词": "1&2&3&4&",
     "筛选": {
