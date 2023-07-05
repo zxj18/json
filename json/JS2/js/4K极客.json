@@ -10,7 +10,7 @@
     "首页片单列表数组规则": ".module-item",
     "首页片单是否Jsoup写法": "1",
     "分类起始页码": "1",
-    "分类链接": "https://www.jiketv.com/index.php/vodtype/fyclassfyfilter.html",    
+    "分类链接": "https://www.jiketv.com/index.php/vodtype/id/fyclassfyfilter.html",    
     "分类名称": "NETFLIX&少儿&剧集&动漫&电影&综艺&",
     "分类名称替换词": "57&99&2&4&1&3&",
     "筛选数据": "{}",
