@@ -1,7 +1,7 @@
 {
   "author": "takagen99",
   "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36",
-  "homeUrl": "http://www.sbdm.net/index.php/vod/show/id/20.html",
+  "homeUrl": "http://www.sbdm.net/index.php/vod/type/id/20.html",
 
   "dcVipFlag": "true",
   "pCfgJs": "http://www.sbdm.net/static/js/playerconfig.js",
@@ -12,10 +12,10 @@
   "cateNode": "//li/a[contains(@href,'class')]",
   "cateName": "/text()",
   "cateId": "/@href",
-  "cateIdR": "/index.php/vod/show/(\\S+)/id/20.html",
+  "cateIdR": "/index.php/vod/type/(\\S+)/id/20.html",
   "cateManual": {
-    "日漫": "area/日本",
-    "国漫": "area/中國"
+    "新番": "area/新番",
+    "完结": "area/完结"
   },
 
   // Home Summary =====================================================
@@ -27,7 +27,7 @@
   "homeVodMark": "/a/span[2]/text()",
 
   // Category Summary =================================================
-  "cateUrl": "http://www.sbdm.net/index.php/vod/show/{cateId}{type}/id/20/page/{catePg}{year}.html",
+  "cateUrl": "http://www.sbdm.net/index.php/vod/type/{cateId}{type}/id/20/page/{catePg}{year}.html",
   "cateVodNode": "//ul[contains(@class,'vodlist')]/li",
   "cateVodName": "/a/@title",
   "cateVodId": "/a/@href",
