@@ -14,8 +14,8 @@
   "cateId": "/@href",
   "cateIdR": "/index.php/vod/type/(\\S+)/id/20.html",
   "cateManual": {
-    "新番": "area/新番",
-    "完结": "area/完结"
+    "新番": "新番/新番",
+    "完结": "完结/完结"
   },
 
   // Home Summary =====================================================
