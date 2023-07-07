@@ -1,10 +1,10 @@
 {
   "author": "takagen99",
   "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36",
-  "homeUrl": "https://ysjdm.net/index.php/vod/show/id/20.html",
+  "homeUrl": "http://www.sbdm.net/index.php/vod/show/id/20.html",
 
   "dcVipFlag": "true",
-  "pCfgJs": "https://ysjdm.net/static/js/playerconfig.js",
+  "pCfgJs": "http://www.sbdm.net/static/js/playerconfig.js",
   "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
@@ -27,7 +27,7 @@
   "homeVodMark": "/a/span[2]/text()",
 
   // Category Summary =================================================
-  "cateUrl": "https://ysjdm.net/index.php/vod/show/{cateId}{type}/id/20/page/{catePg}{year}.html",
+  "cateUrl": "http://www.sbdm.net/index.php/vod/show/{cateId}{type}/id/20/page/{catePg}{year}.html",
   "cateVodNode": "//ul[contains(@class,'vodlist')]/li",
   "cateVodName": "/a/@title",
   "cateVodId": "/a/@href",
@@ -36,7 +36,7 @@
   "cateVodMark": "/a/span[2]/text()",
 
   // Category Details =================================================
-  "dtUrl": "https://ysjdm.net/index.php/vod/detail/id/{vid}.html",
+  "dtUrl": "http://www.sbdm.net/index.php/vod/detail/id/{vid}.html",
   "dtNode": "//div[@class='detail_list_box']",
   "dtName": "//div[@class='content_thumb fl']/a/@title",
   "dtImg": "//div[@class='content_thumb fl']/a/@data-original",
@@ -50,11 +50,11 @@
   "dtUrlIdR": "/index.php/vod/play/id/(\\S+).html",
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
-  "playUrl": "https://ysjdm.net/index.php/vod/play/id/{playUrl}.html",
+  "playUrl": "http://www.sbdm.net/index.php/vod/play/id/{playUrl}.html",
   "playUa": "",
 
   // Search Results ===================================================
-  "searchUrl": "https://ysjdm.net/index.php/ajax/suggest?mid=1&wd={wd}&limit=100",
+  "searchUrl": "http://www.sbdm.net/index.php/ajax/suggest?mid=1&wd={wd}&limit=100",
   "scVodNode": "json:list",
   "scVodName": "name",
   "scVodId": "id",
