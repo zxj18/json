@@ -3,7 +3,7 @@ var rule = {
 	title:'vidhub',
 	模板:'mxpro',
 	host:'https://vidhub.cc/',
-	url:'/vodshow/cateId/fyclassfyfilter.html',
+	url:'/vodshow/cateId/fyfilter.html',
     searchable: 1,
     quickSearch: 1,
 	filterable:1,//是否启用分类筛选,
