@@ -3,7 +3,7 @@ var rule = {
 	title:'jiketv',
 	模板:'mxpro',
 	host:'https://www.jiketv.com/',
-	url:'/index.php/show/fyclassfyfilter.html',
+	url:'/index.php/show/fyfilter.html',
     searchable: 1,
     quickSearch: 1,
 	filterable:1,//是否启用分类筛选,
