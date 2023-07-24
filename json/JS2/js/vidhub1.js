@@ -3,8 +3,8 @@ var rule = Object.assign(muban.mxone5,{
     //title:'Vid影视',
     title:'Vid影视',
     host:'https://vidhub.cc',
-    //url:'/vodshow/fyclass--------fycateId---.html',
-    url:'/vodshow/fyclassfyfilter---fypage--------.html',
+    //url:'/vodshow/fyclass--------fypage---.html',
+    url:'/vodshow/fyclassfyfilter---fycateId--------.html',
     filterable:1,//是否启用分类筛选,
     filter_url:'{{fl.cateId}}-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}',
     filter:{
