@@ -26,5 +26,5 @@ var rule = Object.assign(muban.mxone5,{
     searchUrl:'/vodsearch/**----------fypage---.html',
     cate_exclude:'网址+',
     tab_exclude:'主选一'
-}
+})
 
