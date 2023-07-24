@@ -4,7 +4,7 @@ var rule = Object.assign(muban.mxone5,{
     title:'Vid影视',
     host:'https://vidhub.cc',
     //url:'/vodshow/fyclass--------fypage---.html',
-    url:'/vodshow/fyfilte.html',
+    url:'/vodshow/fyclass.html',
     filterable:1,//是否启用分类筛选,
     filter_url:'{{fl.cateId}}-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}',
     filter:{
