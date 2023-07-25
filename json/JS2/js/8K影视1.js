@@ -1,6 +1,6 @@
 
 var rule = {
-    title:'TV蜂',
+    title:'8K影视',
     host:'http://www.8kvod.com/',
     // homeUrl:'/',
     url:'/fl//{cateId}-{area}--{class}-{lang}-{by}---{catePg}---{year}.html',
