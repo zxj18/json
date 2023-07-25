@@ -3,7 +3,7 @@ var rule = {
     title:'TV蜂',
     host:'http://www.8kvod.com/',
     // homeUrl:'/',
-    url:'/fl/fyclass--------fypage---.html',
+    url:'/fl//{cateId}-{area}--{class}-{lang}-{by}---{catePg}---{year}.html',
     searchUrl:'/vse/**----------fypage---.html',
     searchable:2,//是否启用全局搜索,
     quickSearch:0,//是否启用快速搜索,
