@@ -3,7 +3,11 @@
         "name": "🐬海豚电视",
         "url": "https://raw.fastgit.org/zxj18/yun/master/mytv/ztv.txt&&&https://tuapi.eees.cc/api.php?category=fengjing&type=302"
     }, 
-    
+       {
+        "name": "🐬海豚随机音乐",
+        "url": "https://raw.fastgit.org/zxj18/yun/master/mytv/tvmv/🐬海豚随机音乐&&&https://tuapi.eees.cc/api.php?category=fengjing&type=302"
+    },    
+
     {
         "name": "🐬海豚MV",
         "url": "https://ghproxy.com/https://raw.githubusercontent.com/zxj18/yun/master/mytv/mv.txt&&&https://api.likepoems.com/img/nature"
@@ -13,8 +17,8 @@
         "url": "https://raw.fastgit.org/zxj18/yun/master/mytv/tvmv/周星驰系列合集.txt&&&https://api.yimian.xyz/img?type=wallpaper"
     },
     {
-        "name": "肥猫!!",
-        "url": "http://我不是.肥猫.love:63/TV/tvzb.txt&&&https://api.btstu.cn/sjbz/api.php"
+        "name": "线路1",
+        "url": "https://raw.fastgit.org/zxj18/yun/master/mytv/tvmv/线路1.txt&&&https://api.btstu.cn/sjbz/api.php"
     },
 
     {
@@ -23,16 +27,19 @@
     },
 
     {
-        "name": "tv8",
-        "url": "https://raw.fastgit.org/zxj18/yun/master/mytv/tv8.txt&&&https://api.likepoems.com/img/pe"
+        "name": "线路3",
+        "url": "https://raw.fastgit.org/zxj18/yun/master/mytv/tvmv/线路3.txt&&&https://api.likepoems.com/img/pe"
     },
 
     {
-        "name": "zb3",
-        "url": "https://raw.fastgit.org/zxj18/yun/master/mytv/zb3.txt&&&https://zxj18.github.io/sjtp"
+        "name": "线路4",
+        "url": "https://raw.fastgit.org/zxj18/yun/master/mytv/tvmv/线路4.txt&&&https://zxj18.github.io/sjtp"
+    },
+
+    {
+        "name": "线路5",
+        "url": "https://raw.fastgit.org/zxj18/yun/master/mytv/tvmv/线路5.txt&&&https://zxj18.github.io/sjtp"
     }
-
-
 
 
 ]
