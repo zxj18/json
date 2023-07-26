@@ -25,7 +25,7 @@
     "播放数组": "-content__list sort-list&&</ul>",
     "播放标题": ">&&<",
     "播放列表": "<a&&/a>",
-    "分类url": "https://www.hdmoli.com/search.php?searchtype={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan=&state=&money=&ver=&jq={class};;ak",
+    "分类url": "https://www.hdmoli.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan=&state=&money=&ver=&jq={class};;ak",
     "分类": "电影$1#电视剧$2#动漫$41",
     "筛选": {
         "1": [
