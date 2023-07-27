@@ -25,7 +25,6 @@ class Spider(Spider):  # 元类 默认的元类 type
         result = {}
         cateManual = {
 
-		  "🐋一只鱼":"https://alist.youte.ml",
 		  "🌊七米蓝":"https://al.chirmyram.com", 
 		  "🐉神族九帝":"https://alist.shenzjd.com",
 		  "☃姬路白雪":"https://pan.jlbx.xyz"
