@@ -4,7 +4,7 @@ var rule = {
 	title:'看看屋',
 	模板:'mxpro',
 	host:'https://www.kkw361.com',
-	url:'/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---fypage---{year}.html',
+	url:'/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}------{year}.html',
 	//url:'/vodshow/fyclassfilter.html',
 	filterable:1,//是否启用分类筛选,
 	filter_url:'{{fl.cateId}}-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}',
