@@ -5,7 +5,7 @@ var rule = {
 	模板:'首图2',
 	// host:'https://zxzj.vip',
 	host:'https://www.zxzjhd.com/',
-	url:'/vodshow/fyclassfyfilter.html',
+	url:'https://www.zxzjhd.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html',
 	filterable:1,//是否启用分类筛选,
 	filter_url:'-{{fl.area}}-{{fl.by}}-{{fl.class}}-----fypage---{{fl.year}}',
 	filter: {
