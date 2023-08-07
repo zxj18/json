@@ -9,7 +9,7 @@ var rule = {
     quickSearch: 0,
     headers:{'User-Agent':'MOBILE_UA'},
     // 分类链接fypage参数支持1个()表达式
-    url: '/index.php/api/vod#type=fyclass&page=fypage',
+    url: '/index.php/vod/show#type=fyclass&page=fypage',
     detailUrl:'/index.php/vod/detail/id/fyid.html',
     推荐:'.list-vod.flex .public-list-box;a&&title;.lazy&&data-original;.public-list-prb&&Text;a&&href',
     一级:'',
