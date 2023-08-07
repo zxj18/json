@@ -11,8 +11,8 @@
     "首页片单是否Jsoup写法": "1",
     "分类起始页码": "1",
     "分类链接": "https://www.i8k.cc/index.php/show/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
-	"分类名称": "电影&电视剧&综艺&动漫",
-	"分类名称替换词": "1&2&3&4",
+	"分类名称": "电影&电视剧&综艺&动漫&NETFLIX库&少儿",
+	"分类名称替换词": "1&2&3&4&57&99",
 	//"筛选数据": {},
 	"筛选数据": "ext",
 	//{cateId}
