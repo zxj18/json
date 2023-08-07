@@ -1,6 +1,6 @@
 var rule = {
     title:'在线之家',
-    host:'https://zxzjmtv.com',
+    host:'https://www.zxzjmhd.com',
     // homeUrl:'/',
     url:'/vsph/fyclassavbvcdcddvvfypageddv.html',
     searchUrl:'/vsear/**acabaaacacvcvvvcfypagecvvb.html',
