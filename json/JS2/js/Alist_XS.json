@@ -16,7 +16,31 @@
         "showAll" : true,
         "search" : true
     },
-      
+
+          {
+        "name" : "弱水分享站",
+        "server" : "http://shicheng.wang:555/",
+        "startPage" : "/",
+        "showAll" : true,
+        "search" : true
+    },
+
+         {
+        "name" : "nics",
+        "server" : "https://nics.eu.org/",
+        "startPage" : "/",
+        "showAll" : true,
+        "search" : true
+    },
+
+         {
+        "name" : "ecve",
+        "server" : "https://pan.ecve.cn/",
+        "startPage" : "/",
+        "showAll" : true,
+        "search" : true
+    },                 
+
   {
         "name" : "雨呢",
         "server" : "https://pan.clun.top",
@@ -111,16 +135,13 @@
         "search" : true
     },
        
-
      {
         "name" : "9T",
         "server" : "https://drive.9t.ee",
         "startPage" : "/",
         "showAll" : true,
         "search" : true
-    },  
-       
-       
+    },   
        
        {
         "name" : "💦讯维云盘",
