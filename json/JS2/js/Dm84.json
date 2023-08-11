@@ -1,7 +1,8 @@
 {
     "作者": "运输车",
     "站名": "动漫巴士",
-    "主页url": "https://dm84.tv",
+    //"主页url": "https://dm84.tv",
+    "主页url": "https://dm84.vip",
     "分类": "国产动漫&日本动漫&欧美动漫&电影",
     "分类值": "1&2&3&4",
     "分类url": "https://dm84.tv/show-{cateId}--{by}-{class}--{year}-{catePg}.html",
