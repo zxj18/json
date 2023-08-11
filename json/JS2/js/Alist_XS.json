@@ -128,8 +128,8 @@
         "search" : true
     },
         {
-        "name" : "AList网盘",
-        "server" : "https://dl.6r.pw:6080",
+        "name" : "课程",
+        "server" : "https://www.souke365.cn",
         "startPage" : "/",
         "showAll" : true,
         "search" : true
