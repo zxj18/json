@@ -161,10 +161,7 @@
                         "n": "古装",
                         "v": "movie_bt_tags/guzhuang"
                     },
-                    {
-                        "n": "同性",
-                        "v": "movie_bt_tags/tongxing"
-                    },
+
                     {
                         "n": "喜剧",
                         "v": "movie_bt_tags/xiju"
@@ -185,10 +182,7 @@
                         "n": "悬疑",
                         "v": "movie_bt_tags/xuanyi"
                     },
-                    {
-                        "n": "情色",
-                        "v": "movie_bt_tags/qingse"
-                    },
+
                     {
                         "n": "惊悚",
                         "v": "movie_bt_tags/kingsong"
