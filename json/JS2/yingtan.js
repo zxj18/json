@@ -51,7 +51,8 @@ var rule = {
 	//host: 'http://ytcms.lfytyl.com',
 	
     // hostJs:'print(HOST);let html=JSON.parse(request(HOST,{headers:{"User-Agent":PC_UA}}));let src = html.sites[0].ext.replace("/api.php/app/","");print(src);HOST=src',//网页域名根动态抓取js代码。通过HOST=赋值
-    host: 'https://download.kstore.space/download/3313/mao/0.json',
+    //host: 'https://download.kstore.space/download/3313/mao/0.json',
+    host: 'https://gitee.com/io9/json/raw/master/json/JS2/0.json',
 	//host: 'http://ytcms.lfytyl.com',
   hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":"Dart/3.0 (dart:io)"}});let src = JSON.parse(html).domain;print(src);HOST=src',
 	homeUrl:'/api.php/app/index_video',
