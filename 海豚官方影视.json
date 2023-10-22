@@ -19,8 +19,16 @@
         "name": "会员生活分享",
         "url": "https://gitee.com/io9/json/raw/master/%E5%BC%80%E6%80%80%E5%A4%A7%E7%AC%91%E8%A7%86%E9%A2%91&&&https://tuapi.eees.cc/api.php?category=fengjing&type=302"
     },
-    {
+   {
         "name": "推荐高分影片",
-        "url": "https://gitee.com/io9/json/raw/master/%E6%9C%80%E6%96%B0%E9%AB%98%E6%B8%85%E7%94%B5%E5%BD%B1&&&https://tool.weetai.cn/api"
+        "url": "https://gitee.com/io9/json/raw/master/%E5%BC%80%E6%80%80%E5%A4%A7%E7%AC%91%E8%A7%86%E9%A2%91&&&https://tuapi.eees.cc/api.php?category=fengjing&type=302"
+    },
+    {
+        "name": "动人音乐",
+        "url": "https://gitee.com/io9/json/raw/master/动人音乐&&&https://tuapi.eees.cc/api.php?category=fengjing&type=302"
+    },
+    {
+        "name": "电视直播",
+        "url": "https://gitee.com/io9/json/raw/master/电视直播&&&https://tool.weetai.cn/api"
     }
 ]
