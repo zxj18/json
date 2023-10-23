@@ -35,6 +35,10 @@
         "name": "动人音乐",
         "url": "https://gitee.com/io9/json/raw/master/动人音乐&&&https://tuapi.eees.cc/api.php?category=fengjing&type=302"
     },
+   {
+        "name": "影片直播",
+        "url": "https://gitee.com/io9/json/raw/master/影片直播&&&https://tuapi.eees.cc/api.php?category=fengjing&type=302"
+    },
     {
         "name": "电视直播",
         "url": "https://gitee.com/io9/json/raw/master/电视直播&&&https://tool.weetai.cn/api"
