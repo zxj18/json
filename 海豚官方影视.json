@@ -8,12 +8,16 @@
         "url": "https://gitee.com/io9/json/raw/master/明星系列电影&&&https://tuapi.eees.cc/api.php?category=fengjing&type=302"
     },
      {
-        "name": "热门电视剧",
-        "url": "https://gitee.com/io9/json/raw/master/热门电视剧&&&https://tuapi.eees.cc/api.php?category=fengjing&type=302"
+        "name": "电视剧",
+        "url": "https://gitee.com/io9/json/raw/master/电视剧&&&https://tuapi.eees.cc/api.php?category=fengjing&type=302"
     },
      {
-        "name": "最新高清电影",
-        "url": "https://gitee.com/io9/json/raw/master/最新高清电影&&&https://tuapi.eees.cc/api.php?category=fengjing&type=302"
+        "name": "电影",
+        "url": "https://gitee.com/io9/json/raw/master/电影&&&https://tuapi.eees.cc/api.php?category=fengjing&type=302"
+    },
+    {
+        "name": "动漫",
+        "url": "https://gitee.com/io9/json/raw/master/动漫&&&https://tuapi.eees.cc/api.php?category=fengjing&type=302"
     },
          {
         "name": "会员生活分享",
@@ -21,7 +25,7 @@
     },
    {
         "name": "推荐高分影片",
-        "url": "https://gitee.com/io9/json/raw/master/推荐高分影片&&&https://tuapi.eees.cc/api.php?category=fengjing&type=302"
+        "url": "https://gitee.com/io9/json/raw/master/推荐影片&&&https://tuapi.eees.cc/api.php?category=fengjing&type=302"
     },
     {
         "name": "MTV聚合",
